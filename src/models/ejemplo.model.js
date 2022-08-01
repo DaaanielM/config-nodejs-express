@@ -1,3 +1,5 @@
+// El modelo en express sirve para poder trabajar con la base de datos y hacer las consultas a la base de datos
+
 const conexion = require('../database/db');
 
 const model = {};

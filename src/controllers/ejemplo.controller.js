@@ -1,7 +1,8 @@
+// Los controllers son los encargados de recibir las peticiones de los usuarios y de realizar las acciones correspondientes.
+
 const model = require('../models/ejemplo.model');
 
 const controller = {};
-
 
 // controller.listar = async (req, res) => {
 //     try {
@@ -16,7 +17,6 @@ const controller = {};
 //         });
 //     }
 // }
-
 
 // controller.crear = async (req, res) => {
 //     try {
@@ -37,7 +37,6 @@ const controller = {};
 //     }
 // }
 
-
 // controller.actualizar = async (req, res) => {
 //     try {
 //         const id = req.params.id;
@@ -57,7 +56,6 @@ const controller = {};
 //         })
 //     }
 // }
-
 
 // controller.eliminar = async (req, res) => {
 //     try {

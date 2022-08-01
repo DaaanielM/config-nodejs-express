@@ -1,3 +1,4 @@
+
 const conexion = require('../database/db');
 
 const model = {};
